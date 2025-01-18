@@ -5,7 +5,7 @@ En este repo encontrarán App Scripts que permitirán sincronizar los datos de s
 
 Para utilizarlo simplemente agrégelo en su hoja de Google desde Extensiones > App Script.
 
-Para mayores detalles por favor mire este video
+Para mayores detalles por favor mire este video: https://youtu.be/ECjVshj_qwU
 
 ## Autor
 
